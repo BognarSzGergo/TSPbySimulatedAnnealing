@@ -1,0 +1,14 @@
+C:\Users\gorgo\source\repos\TSPbySimulatedAnnealing\TSPbySimulatedAnnealing\obj\Debug\TSPbySimulatedAnnealing.csprojAssemblyReference.cache
+C:\Users\gorgo\source\repos\TSPbySimulatedAnnealing\TSPbySimulatedAnnealing\obj\Debug\TSPbySimulatedAnnealing.csproj.CoreCompileInputs.cache
+C:\Users\gorgo\source\repos\TSPbySimulatedAnnealing\TSPbySimulatedAnnealing\bin\Debug\TSPbySimulatedAnnealing.exe.config
+C:\Users\gorgo\source\repos\TSPbySimulatedAnnealing\TSPbySimulatedAnnealing\bin\Debug\TSPbySimulatedAnnealing.exe
+C:\Users\gorgo\source\repos\TSPbySimulatedAnnealing\TSPbySimulatedAnnealing\bin\Debug\TSPbySimulatedAnnealing.pdb
+C:\Users\gorgo\source\repos\TSPbySimulatedAnnealing\TSPbySimulatedAnnealing\obj\Debug\TSPbySimulatedAnnealing.exe
+C:\Users\gorgo\source\repos\TSPbySimulatedAnnealing\TSPbySimulatedAnnealing\obj\Debug\TSPbySimulatedAnnealing.pdb
+D:\Halal\TSPbySimulatedAnnealing\TSPbySimulatedAnnealing\bin\Debug\TSPbySimulatedAnnealing.exe.config
+D:\Halal\TSPbySimulatedAnnealing\TSPbySimulatedAnnealing\bin\Debug\TSPbySimulatedAnnealing.exe
+D:\Halal\TSPbySimulatedAnnealing\TSPbySimulatedAnnealing\bin\Debug\TSPbySimulatedAnnealing.pdb
+D:\Halal\TSPbySimulatedAnnealing\TSPbySimulatedAnnealing\obj\Debug\TSPbySimulatedAnnealing.csprojAssemblyReference.cache
+D:\Halal\TSPbySimulatedAnnealing\TSPbySimulatedAnnealing\obj\Debug\TSPbySimulatedAnnealing.csproj.CoreCompileInputs.cache
+D:\Halal\TSPbySimulatedAnnealing\TSPbySimulatedAnnealing\obj\Debug\TSPbySimulatedAnnealing.exe
+D:\Halal\TSPbySimulatedAnnealing\TSPbySimulatedAnnealing\obj\Debug\TSPbySimulatedAnnealing.pdb
